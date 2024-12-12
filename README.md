@@ -1,7 +1,5 @@
 Hi 👋 My name is Paul Schulte
 =============================
-Computer Science Student at RWTH Aachen University
---------------------------------------------------
 * 🌍  I'm based in Aachen, Germany
 * 🖥️  See my portfolio at [Portfolio](http://p-schulte.github.io)
 * ✉️  You can contact me at [paul.schulte@rwth-aachen.de](mailto:paul.schulte@rwth-aachen.de)
@@ -21,5 +19,7 @@ src="https://img.shields.io/github/followers/p-schulte?logo=github&style=for-the
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/p-schulte"><img src="https://github-readme-stats.vercel.app/api?username=p-schulte&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="p-schulte's GitHub stats" /></a>
 
 <a href="http://www.github.com/p-schulte"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=p-schulte&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
